@@ -40,8 +40,3 @@ A simple tool to help you create a study plan for reading research papers within
 ##Gradio Demo
 You can interact with the Gradio demo hosted on Hugging Face Spaces through the following link:
 https://huggingface.co/spaces/garvit2205/Research_Paper_Study_Planner
-
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
