@@ -18,3 +18,20 @@ A simple tool to help you create a study plan for reading research papers within
 
    ```bash
    pip install -r requirements.txt
+
+### Installation
+- **Clone the repository:**
+  ```bash
+  git clone https://github.com/gt2205/Research-Paper-Study-Planner.git
+  cd Research-Paper-Study-Planner
+
+- **Run the application:**
+  ```bash
+  python main.py
+- **Follow the prompts to input your paper details and study duration.**
+
+  ## Usage
+- **Input Paper Details:** Provide the title of the paper and the number of days you wish to allocate for reading.
+- **Generate a Plan:** The planner will automatically divide the paper into daily reading sections, helping you cover all parts within the specified time.
+- **Track Your Daily Progress:** Mark each section as "Completed" once you finish reading.
+- **Adjust Your Plan:** If needed, extend or reduce the number of days to adjust your study pace.
