@@ -37,8 +37,10 @@ A simple tool to help you create a study plan for reading research papers within
 - **Adjust Your Plan:** If needed, extend or reduce the number of days to adjust your study pace.
 
 
-<iframe
-	src="https://garvit2205-research-paper-study-planner.hf.space"
+##Gradio Demo
+You can interact with the Gradio demo hosted on Hugging Face Spaces through the following link:
+https://huggingface.co/spaces/garvit2205/Research_Paper_Study_Planner
+
 	frameborder="0"
 	width="850"
 	height="450"
