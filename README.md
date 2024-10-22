@@ -35,3 +35,11 @@ A simple tool to help you create a study plan for reading research papers within
 - **Generate a Plan:** The planner will automatically divide the paper into daily reading sections, helping you cover all parts within the specified time.
 - **Track Your Daily Progress:** Mark each section as "Completed" once you finish reading.
 - **Adjust Your Plan:** If needed, extend or reduce the number of days to adjust your study pace.
+
+
+<iframe
+	src="https://garvit2205-research-paper-study-planner.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
